@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/domuserk/domuserk)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieD)](https://github.com/domuserk/moviedb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb)](https://github.com/domuserk/moviedb)
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
