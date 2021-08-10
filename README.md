@@ -58,4 +58,4 @@ Here are some ideas to get you started:
  ##
   
   <p align="center">👁️Profile views👁️</p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Gustabriel/count.svg" /></p>
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=domuserk" /></p>
