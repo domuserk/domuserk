@@ -54,7 +54,9 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/domuserk/domuserk/blob/main/github-contribution-grid-snake.svg)
 
 </div>
-<img width="50%"src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
+<a href="https://github.com/domuserk/moviedb">
+  <img width="50%"src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
+</a>
  ##
   
   <!-- <p align="center">👁️Profile views👁️</p>
