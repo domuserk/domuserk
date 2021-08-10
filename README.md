@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb)](https://github.com/domuserk/moviedb -->
 <div style="display: flex;">
   <div style="width:50%">
-  <img  height="160em" width="40%" src="https://github-readme-stats.vercel.app/api?username=domuserk&show_icons=true&count_private=true"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=domuserk&show_icons=true&count_private=true"/>
   </div>
   <div style="width:50%">
   <a href="https://github.com/domuserk/moviedb">
-  <img  height="160em" width="40%"src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
+  <img width="50%"src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
 </a>
    </div>
 </div>
