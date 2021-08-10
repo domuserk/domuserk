@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domuserk&show_icons=true&count_private=true -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/domuserk/domuserk) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb)](https://github.com/domuserk/moviedb -->
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row">
   <div style="width:50%">
   <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=domuserk&show_icons=true&count_private=true"/>
   </div>
