@@ -14,21 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex;">
-  <div style="width:50%;">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domuserk&show_icons=true&count_private=true)
-  </div>
-   <div style="width:50%;">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/domuserk/domuserk)
-</div>
-</div>
 
+ <img width=50% ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domuserk&show_icons=true&count_private=true)/>
 
-
-
-
-
-
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/domuserk/domuserk)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb)](https://github.com/domuserk/moviedb)
 
