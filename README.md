@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 <img width="50%"src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
  ##
   
-  <p align="center">👁️Profile views👁️</p>
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=domuserk" /></p>
+  <!-- <p align="center">👁️Profile views👁️</p>
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=domuserk" /></p> -->
