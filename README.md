@@ -48,17 +48,13 @@ Here are some ideas to get you started:
 ##
   
 <div> 
-  <a href="https://www.facebook.com/gabriel.gustavo.102/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me/870111291598045225" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-gustavo31/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
- <a href="https://api.whatsapp.com/send?phone=5511985781993&text=Ol%C3%A1%2C%20vindo%20pelo%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gg31032000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel_gustavo31@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ryan-guilherme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+  <a href="mailto:impcomercial.87@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Gustabriel/Gustabriel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/domuserk/domuserk/blob/main/github-contribution-grid-snake.svg)
 
 </div>
-
+<img width="50%"src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
  ##
   
   <p align="center">👁️Profile views👁️</p>
