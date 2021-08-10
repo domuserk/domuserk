@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  <img width=50% src="https://github-readme-stats.vercel.app/api?username=domuserk&show_icons=true&count_private=true"/>
 
-<a href="https://github.com/domuserk/moviedb"
+<a href="https://github.com/domuserk/moviedb">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
 </a>
 
