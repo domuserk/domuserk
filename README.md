@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <img align="center" alt="GG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="GG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/angularjs-original.svg">
   <img align="right" width="300px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
   
