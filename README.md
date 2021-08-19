@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/domuserk/moviedb">
   <img width="50%"src="https://github-readme-stats.vercel.app/api/pin/?username=domuserk&repo=MovieDb" />
 </a>
+  <p align="center">Code Wars Rank</p>
   <p align="center"><img align="center" src="https://www.codewars.com/users/RyanLopes/badges/large" /></p>
   
   <p align="center">👁️Profile views👁️</p>
